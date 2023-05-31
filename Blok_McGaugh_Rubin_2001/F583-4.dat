@@ -1,0 +1,14 @@
+# This file contains the Modeled Rotation Curves of de Blok, McGaugh, & Rubin (2001).
+#data obtained from http://astroweb.case.edu/ssm/data/RCsmooth.0701.dat
+#Name F583-4
+#R	Rkpc	Vgas	Vdisk Vbul 	V	Err
+#"	kpc	km/s	km/s	km/s	km/s	km/s
+1.0	0.2	0.5	2.4	0	10.7	4.9	
+3.0	0.7	1.7	6.9	0	24.7	4.9	
+5.0	1.2	3.0	10.6	0	38.9	4.9	
+15.0	3.6	8.1	17.0	0	55.0	4.9	
+17.0	4.0	8.9	17.9	0	57.2	4.9	
+19.5	4.6	10.2	19.2	0	59.8	4.9	
+23.5	5.6	12.8	20.2	0	64.4	4.9	
+26.0	6.2	14.2	20.3	0	67.2	4.9	
+28.3	6.7	15.2	20.2	0	69.9	4.9
